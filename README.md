@@ -1,33 +1,93 @@
-# Hi there, I'm Bastin Izumi 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bastinizumi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <h1>Hi there, I'm <span style="color: #61DAFB;">Bastin Raja S</span> (Bastin Izumi) 👋</h1>
 
-### 👨‍💻 About Me
-- 🌐 Passionate **Frontend Developer** crafting responsive & modern web experiences.
-- 🚀 Currently working on exciting projects like **[maven-works](https://github.com/bastinizumi/maven-works)**!
-- 🌱 Always learning, exploring modern web technologies and best practices.
+  <!-- Typing SVG Banner -->
+  <a href="https://github.com/bastinizumi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Creative+UI%2FUX+%26+Smooth+Animations;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
 
----
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=bastinizumi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 
-### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bastinizumi&show_icons=true&theme=radical" alt="Bastin's GitHub Stats" />
-</p>
+### 🚀 About Me
+
+```javascript
+const bastin = {
+    name: "Bastin Raja S",
+    role: "MERN Stack Developer",
+    organization: "Hazzino Technologies",
+    code: ["JavaScript", "HTML5", "CSS3", "Python"],
+    technologies: {
+        frontend: ["React.js", "Bootstrap", "Responsive UI/UX"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB"]
+    },
+    currentProject: "Maven Works",
+    ambition: "To craft scalable, performant and visually stunning web products"
+};
+```
 
 ---
 
-### 🤝 Connect With Me
-- 💼 Feel free to check out my repositories and reach out for collaboration!
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <p><b>Frontend & Design</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma" />
+  </a>
+  <br/><br/>
+  <p><b>Backend & Database</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py" />
+  </a>
+  <br/><br/>
+  <p><b>Tools & Workflow</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <p align="center">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=bastinizumi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Bastin's GitHub Stats" />
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastinizumi&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+  </p>
+  
+  <p align="center">
+    <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastinizumi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:bastinizumi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bastinizumi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Code with passion, design with purpose."</i> ✨
+</div>
